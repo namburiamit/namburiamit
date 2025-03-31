@@ -57,10 +57,10 @@ I'm a graduate student in Computer Science at **UC San Diego**, focusing on **mu
 
 ## 🛠️ Skills
 
-**Languages:** Python, Java, C/C++, JS/TS, ARM Assembly, MySql
-**ML/AI:** PyTorch, TensorFlow, LangChain, LlamaIndex, Hugging Face 
-**Data:** Docker, AWS, CUDA, REST APIs, Apache Spark
-**Web:** React, Angular, Node.js, Firebase
+**Languages:** Python, Java, C/C++, JavaScript/TypeScript, ARM Assembly, MySQL  
+**ML/AI:** PyTorch, TensorFlow, LangChain, LlamaIndex, Hugging Face  
+**Data:** Docker, AWS (EC2/S3), CUDA, REST APIs, Apache Spark  
+**Web-dev:** React, Angular, Node.js, Firebase
 
 ---
 
